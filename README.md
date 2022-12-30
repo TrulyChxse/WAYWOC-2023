@@ -139,7 +139,7 @@ Finally, I'd like to showcase Arkwright, again made in collaboration with edu.
 <details>
 <summary>Info</summary>
 
-"Arkwright" was made as a modified sequel to the convinience store in *Need for Speed: Payback*. The showcase is kept private, as it includes some copyrighted assets.
+"Arkwright" was made as a modified sequel to the convenience store in *Need for Speed: Payback*. The showcase is kept private, as it includes some copyrighted assets.
 
 </details>
 
@@ -179,5 +179,38 @@ You know the drill, here we go:
 
 ![Arkwright-Divider2](https://i.imgur.com/leLgMY2.png)
 
+<br>
 
-And that's it for now! Thanks for taking a look, I'd like to wish every one a happy year of developing!
+![Recap-Divider](https://i.imgur.com/QcbHeE7.png)
+
+Finally, I'd like to top off this post with a quick recap of my 2022 developing work, and a little look at what's ahead in 2023!
+
+**Showcased: Collaborative work with: C9Z9, Newlands Game. Credit given where due.*
+
+![Recap-Header](https://i.imgur.com/Dvxdur6.png)
+
+![Recap-Divider1](https://i.imgur.com/ap1e3of.png)
+
+![Recap-Showcase](https://i.imgur.com/6bO42Jy.png)
+
+![Recap-Showcase1](https://i.imgur.com/XW76QkY.jpeg)
+
+![Recap-Showcase2](https://i.imgur.com/L4oT12p.jpeg)
+
+![Recap-Showcase3](https://i.imgur.com/6ayWjnS.png)
+
+![Recap-Showcase4](https://i.imgur.com/hzOtaEv.jpeg)
+
+![Recap-Showcase5](https://i.imgur.com/NdTgupV.png)
+
+![Recap-Showcase6](https://i.imgur.com/fisekN3.jpeg)
+
+**Additional Recap Showcase: https://imgur.com/gallery/qX1QDrF**
+
+![Recap-Divider2](https://i.imgur.com/9Q9jnqS.png)
+
+
+
+
+
+And that's it for now! Thanks for taking a look, It's been a ***Truly*** amazing year! With that in mind, I'd like to wish everyone a happy year of developing!
